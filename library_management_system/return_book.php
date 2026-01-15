@@ -1,1 +1,0 @@
-<?php echo 'Return book logic here.'; ?>
