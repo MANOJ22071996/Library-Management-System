@@ -40,7 +40,6 @@ This project helps manage books, students, and issue/return records efficiently.
 ## 🔐 Admin Login (Demo)
 Username: admin
 Password: admin123
-> ⚠️ Change credentials after first login.
 
 ---
 
